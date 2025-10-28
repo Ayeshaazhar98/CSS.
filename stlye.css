@@ -1,0 +1,18 @@
+h1 {
+    color: darkblue;
+    background-color: blue
+}
+
+.first-para {
+    color: purple;
+}
+
+.second-para {
+    color: orange;
+    background-color: yellow;
+}
+
+.third-para {
+    background-color: aquamarine;
+
+}
